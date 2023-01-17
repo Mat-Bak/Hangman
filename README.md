@@ -1,4 +1,4 @@
-# Sample GitLab Project
+# Hangman in JavaScript
 
 <h3>A simple hangman game made in JavaScript. The app contains 16 categories and 134 quotes.
 The user has seven chances to guess the hidden quote, if he doesn't, he loses.
